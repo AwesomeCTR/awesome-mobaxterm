@@ -115,22 +115,13 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Public, recurring conferences on and around MobaXterm*
 
-- [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MobaXterm & friends" room.
-- [MobaXterm Central](https://www.oracle.com/openworld/mobaxterm/index.html) - Oracle's annual MobaXterm conference, as part of Oracle Open World.
-- [Percona Live](https://www.percona.com/live/conferences) - MobaXterm & Openstack focused conference.
-- [SCALE](https://www.socallinuxexpo.org) - A community organized Linux and Open Source conference held annually in Southern California. The local MobaXterm community runs a track under the name MobaXterm Community Day.
-
 ## e-books
 
 *e-books as well as relevant materials on and around MobaXterm*
 
-- [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.
-- [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
-
 ## Media
 
 *Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
-
 
 ## Newsletters
 
